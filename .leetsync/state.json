@@ -1,18 +1,43 @@
 {
   "v": 1,
-  "updatedAt": 1790067913734,
+  "updatedAt": 1790068040000,
   "devices": {
     "a0935c29-a827-4d68-a3e5-207e55bdacf5": {
-      "lastSeen": 1790067912662
+      "lastSeen": 1790068039135
     }
   },
-  "problems": {},
-  "achievements": {},
+  "problems": {
+    "852": {
+      "attempts": 1,
+      "bestMemory": "63.5 MB (Beats 79%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-22",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-22",
+      "folderName": "0852-Peak-Index-in-a-Mountain-Array",
+      "language": "C++",
+      "number": 852,
+      "slug": "peak-index-in-a-mountain-array",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Binary Search",
+        "Ternary Search"
+      ],
+      "title": "Peak Index in a Mountain Array",
+      "at": 1790068039135
+    }
+  },
+  "achievements": {
+    "first_blood": 1790067929344
+  },
   "sheets": {},
-  "days": [],
+  "days": [
+    "2026-09-22"
+  ],
   "bests": {
-    "longestStreak": 0,
-    "pushes": 0
+    "longestStreak": 1,
+    "pushes": 1
   },
   "identity": {
     "installId": "ac732866-6765-4c3e-87af-b4a33f20327a",
