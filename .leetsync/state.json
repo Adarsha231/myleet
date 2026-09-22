@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790070143138,
+  "updatedAt": 1790070439931,
   "devices": {
     "a0935c29-a827-4d68-a3e5-207e55bdacf5": {
-      "lastSeen": 1790070139148
+      "lastSeen": 1790070439126
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Binary Search"
       ],
       "title": "Find Peak Element",
-      "at": 1790070139148
+      "at": 1790070439126
     },
     "852": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Ternary Search"
       ],
       "title": "Peak Index in a Mountain Array",
-      "at": 1790070139148
+      "at": 1790070439126
     },
     "941": {
       "attempts": 4,
@@ -62,7 +62,7 @@
         "Array"
       ],
       "title": "Valid Mountain Array",
-      "at": 1790070139148
+      "at": 1790070439126
     }
   },
   "achievements": {
