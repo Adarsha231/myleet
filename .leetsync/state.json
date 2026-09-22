@@ -1,12 +1,31 @@
 {
   "v": 1,
-  "updatedAt": 1790068704188,
+  "updatedAt": 1790068939987,
   "devices": {
     "a0935c29-a827-4d68-a3e5-207e55bdacf5": {
-      "lastSeen": 1790068703364
+      "lastSeen": 1790068939132
     }
   },
   "problems": {
+    "162": {
+      "attempts": 2,
+      "bestMemory": "12.8 MB (Beats 17%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-22",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-22",
+      "folderName": "0162-Find-Peak-Element",
+      "language": "C++",
+      "number": 162,
+      "slug": "find-peak-element",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Binary Search"
+      ],
+      "title": "Find Peak Element",
+      "at": 1790068939132
+    },
     "852": {
       "attempts": 1,
       "bestMemory": "63.5 MB (Beats 79%)",
@@ -25,7 +44,7 @@
         "Ternary Search"
       ],
       "title": "Peak Index in a Mountain Array",
-      "at": 1790068703364
+      "at": 1790068939132
     },
     "941": {
       "attempts": 4,
@@ -43,7 +62,7 @@
         "Array"
       ],
       "title": "Valid Mountain Array",
-      "at": 1790068703364
+      "at": 1790068939132
     }
   },
   "achievements": {
@@ -55,7 +74,7 @@
   ],
   "bests": {
     "longestStreak": 1,
-    "pushes": 2
+    "pushes": 3
   },
   "identity": {
     "installId": "ac732866-6765-4c3e-87af-b4a33f20327a",
