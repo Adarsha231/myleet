@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790068111555,
+  "updatedAt": 1790068339940,
   "devices": {
     "a0935c29-a827-4d68-a3e5-207e55bdacf5": {
-      "lastSeen": 1790068110477
+      "lastSeen": 1790068339140
     }
   },
   "problems": {
@@ -25,7 +25,25 @@
         "Ternary Search"
       ],
       "title": "Peak Index in a Mountain Array",
-      "at": 1790068110477
+      "at": 1790068339140
+    },
+    "941": {
+      "attempts": 4,
+      "bestMemory": "26.4 MB (Beats 21%)",
+      "bestRuntime": "19 ms (Beats 66%)",
+      "date": "2026-09-22",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-22",
+      "folderName": "0941-Valid-Mountain-Array",
+      "language": "C++",
+      "number": 941,
+      "slug": "valid-mountain-array",
+      "solutionCount": 1,
+      "tags": [
+        "Array"
+      ],
+      "title": "Valid Mountain Array",
+      "at": 1790068339140
     }
   },
   "achievements": {
@@ -37,7 +55,7 @@
   ],
   "bests": {
     "longestStreak": 1,
-    "pushes": 1
+    "pushes": 2
   },
   "identity": {
     "installId": "ac732866-6765-4c3e-87af-b4a33f20327a",
