@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790169944835,
+  "updatedAt": 1790170040054,
   "devices": {
     "a0935c29-a827-4d68-a3e5-207e55bdacf5": {
-      "lastSeen": 1790169944030
+      "lastSeen": 1790170039124
     }
   },
   "problems": {
@@ -24,7 +24,28 @@
         "Binary Search"
       ],
       "title": "Find Peak Element",
-      "at": 1790169944030
+      "at": 1790170039124
+    },
+    "304": {
+      "attempts": 2,
+      "bestMemory": "149.2 MB (Beats 60%)",
+      "bestRuntime": "70 ms (Beats 7%)",
+      "date": "2026-09-23",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-23",
+      "folderName": "0304-Range-Sum-Query-2D---Immutable",
+      "language": "C++",
+      "number": 304,
+      "slug": "range-sum-query-2d-immutable",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Design",
+        "Matrix",
+        "Prefix Sum"
+      ],
+      "title": "Range Sum Query 2D - Immutable",
+      "at": 1790170039124
     },
     "852": {
       "attempts": 1,
@@ -44,7 +65,7 @@
         "Ternary Search"
       ],
       "title": "Peak Index in a Mountain Array",
-      "at": 1790169944030
+      "at": 1790170039124
     },
     "941": {
       "attempts": 4,
@@ -62,7 +83,7 @@
         "Array"
       ],
       "title": "Valid Mountain Array",
-      "at": 1790169944030
+      "at": 1790170039124
     }
   },
   "achievements": {
@@ -70,11 +91,12 @@
   },
   "sheets": {},
   "days": [
-    "2026-09-22"
+    "2026-09-22",
+    "2026-09-23"
   ],
   "bests": {
-    "longestStreak": 1,
-    "pushes": 3
+    "longestStreak": 2,
+    "pushes": 4
   },
   "identity": {
     "installId": "ac732866-6765-4c3e-87af-b4a33f20327a",
