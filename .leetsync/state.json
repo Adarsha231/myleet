@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790185339857,
+  "updatedAt": 1790185639802,
   "devices": {
     "a0935c29-a827-4d68-a3e5-207e55bdacf5": {
-      "lastSeen": 1790185339220
+      "lastSeen": 1790185639152
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Binary Search"
       ],
       "title": "Find Peak Element",
-      "at": 1790185339220
+      "at": 1790185639152
     },
     "304": {
       "attempts": 2,
@@ -45,7 +45,7 @@
         "Prefix Sum"
       ],
       "title": "Range Sum Query 2D - Immutable",
-      "at": 1790185339220
+      "at": 1790185639152
     },
     "852": {
       "attempts": 1,
@@ -65,7 +65,7 @@
         "Ternary Search"
       ],
       "title": "Peak Index in a Mountain Array",
-      "at": 1790185339220
+      "at": 1790185639152
     },
     "941": {
       "attempts": 4,
@@ -83,7 +83,7 @@
         "Array"
       ],
       "title": "Valid Mountain Array",
-      "at": 1790185339220
+      "at": 1790185639152
     }
   },
   "achievements": {
