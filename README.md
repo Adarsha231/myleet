@@ -31,7 +31,7 @@
 |:---:|:--------|:----------:|:--------:|:----:|
 | 1 | [Two Sum](problems/0001-Two-Sum) | 🟩 Easy | `C++` | 2026-09-24 |
 | 162 | [Find Peak Element](problems/0162-Find-Peak-Element) | 🟧 Medium | `C++` | 2026-09-22 |
-| 304 | [Range Sum Query 2D - Immutable](problems/0304-Range-Sum-Query-2D---Immutable) | 🟧 Medium | `C++` | 2026-09-23 |
+| 304 | [Range Sum Query 2D - Immutable](problems/0304-Range-Sum-Query-2D---Immutable) | 🟧 Medium | `C++` | 2026-09-25 |
 | 852 | [Peak Index in a Mountain Array](problems/0852-Peak-Index-in-a-Mountain-Array) | 🟧 Medium | `C++` | 2026-09-22 |
 | 941 | [Valid Mountain Array](problems/0941-Valid-Mountain-Array) | 🟩 Easy | `C++` | 2026-09-22 |
 
