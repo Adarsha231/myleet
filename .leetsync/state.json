@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790348442053,
+  "updatedAt": 1790349578467,
   "devices": {
     "a0935c29-a827-4d68-a3e5-207e55bdacf5": {
-      "lastSeen": 1790348441300
+      "lastSeen": 1790349577831
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1790348441300
+      "at": 1790349577831
     },
     "162": {
       "attempts": 2,
@@ -43,20 +43,20 @@
         "Binary Search"
       ],
       "title": "Find Peak Element",
-      "at": 1790348441300
+      "at": 1790349577831
     },
     "304": {
-      "attempts": 2,
+      "attempts": 4,
       "bestMemory": "149.2 MB (Beats 60%)",
-      "bestRuntime": "70 ms (Beats 7%)",
-      "date": "2026-09-23",
+      "bestRuntime": "21 ms (Beats 70%)",
+      "date": "2026-09-25",
       "difficulty": "Medium",
-      "firstSolvedOn": "2026-09-23",
+      "firstSolvedOn": "2026-09-25",
       "folderName": "0304-Range-Sum-Query-2D---Immutable",
       "language": "C++",
       "number": 304,
       "slug": "range-sum-query-2d-immutable",
-      "solutionCount": 1,
+      "solutionCount": 2,
       "tags": [
         "Array",
         "Design",
@@ -64,7 +64,7 @@
         "Prefix Sum"
       ],
       "title": "Range Sum Query 2D - Immutable",
-      "at": 1790348441300
+      "at": 1790349577831
     },
     "852": {
       "attempts": 1,
@@ -84,7 +84,7 @@
         "Ternary Search"
       ],
       "title": "Peak Index in a Mountain Array",
-      "at": 1790348441300
+      "at": 1790349577831
     },
     "941": {
       "attempts": 4,
@@ -102,7 +102,7 @@
         "Array"
       ],
       "title": "Valid Mountain Array",
-      "at": 1790348441300
+      "at": 1790349577831
     }
   },
   "achievements": {
@@ -113,11 +113,12 @@
   "days": [
     "2026-09-22",
     "2026-09-23",
-    "2026-09-24"
+    "2026-09-24",
+    "2026-09-25"
   ],
   "bests": {
-    "longestStreak": 3,
-    "pushes": 5
+    "longestStreak": 4,
+    "pushes": 6
   },
   "identity": {
     "installId": "ac732866-6765-4c3e-87af-b4a33f20327a",
