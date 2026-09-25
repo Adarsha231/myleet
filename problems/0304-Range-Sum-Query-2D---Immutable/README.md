@@ -2,7 +2,7 @@
 
 # 304. Range Sum Query 2D - Immutable
 
-![Difficulty](https://img.shields.io/badge/DIFFICULTY-Medium-ffa116?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-C%2B%2B-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-1-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--09--23-605d5d?style=for-the-badge&labelColor=1a1a2e)
+![Difficulty](https://img.shields.io/badge/DIFFICULTY-Medium-ffa116?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-C%2B%2B-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-2-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--09--25-605d5d?style=for-the-badge&labelColor=1a1a2e)
 
 [![View on LeetCode](https://img.shields.io/badge/View%20on-LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/problems/range-sum-query-2d-immutable/)
 
@@ -15,7 +15,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="panel-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="panel-light.svg">
-  <img alt="Topics: Array, Design, Matrix, Prefix Sum — best runtime 70 ms (Beats 7%), best memory 149.2 MB (Beats 60%)" src="panel-dark.svg">
+  <img alt="Topics: Array, Design, Matrix, Prefix Sum — best runtime 21 ms (Beats 70%), best memory 149.2 MB (Beats 60%)" src="panel-dark.svg">
 </picture>
 
 </div>
@@ -26,9 +26,9 @@
 
 | | |
 |:--|:--|
-| **Attempts** | 2 before accepted |
-| **Time to solve** | 35 h 34 min |
-| **Verdicts** | ❌ Wrong Answer → ✅ Accepted |
+| **Attempts** | 4 before accepted |
+| **Time to solve** | 85 h 9 min |
+| **Verdicts** | ❌ Wrong Answer → ✅ Accepted → 💥 Runtime Error → ✅ Accepted |
 
 ---
 
@@ -38,11 +38,12 @@ _No notes yet._
 
 ---
 
-### SOLUTIONS (1)
+### SOLUTIONS (2)
 
 | # | File | Language | Date |
 |:-:|------|:--------:|:----:|
-| 1 | [sol1.cpp](./sol1.cpp) | `C++` | 2026-09-23 ← **latest** |
+| 1 | [sol1.cpp](./sol1.cpp) | `C++` | 2026-09-25 |
+| 2 | [sol2.cpp](./sol2.cpp) | `C++` | 2026-09-25 ← **latest** |
 
 ---
 
