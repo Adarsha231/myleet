@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790529102544,
+  "updatedAt": 1790559878646,
   "devices": {
     "a0935c29-a827-4d68-a3e5-207e55bdacf5": {
-      "lastSeen": 1790529101994
+      "lastSeen": 1790559877828
     }
   },
   "problems": {
@@ -24,7 +24,26 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1790529101994
+      "at": 1790559877828
+    },
+    "27": {
+      "attempts": 1,
+      "bestMemory": "11.7 MB (Beats 84%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-27",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-27",
+      "folderName": "0027-Remove-Element",
+      "language": "C++",
+      "number": 27,
+      "slug": "remove-element",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Two Pointers"
+      ],
+      "title": "Remove Element",
+      "at": 1790559877828
     },
     "134": {
       "attempts": 1,
@@ -43,7 +62,7 @@
         "Greedy"
       ],
       "title": "Gas Station",
-      "at": 1790529101994
+      "at": 1790559877828
     },
     "162": {
       "attempts": 2,
@@ -62,7 +81,7 @@
         "Binary Search"
       ],
       "title": "Find Peak Element",
-      "at": 1790529101994
+      "at": 1790559877828
     },
     "304": {
       "attempts": 4,
@@ -83,7 +102,7 @@
         "Prefix Sum"
       ],
       "title": "Range Sum Query 2D - Immutable",
-      "at": 1790529101994
+      "at": 1790559877828
     },
     "852": {
       "attempts": 1,
@@ -103,7 +122,7 @@
         "Ternary Search"
       ],
       "title": "Peak Index in a Mountain Array",
-      "at": 1790529101994
+      "at": 1790559877828
     },
     "941": {
       "attempts": 4,
@@ -121,7 +140,7 @@
         "Array"
       ],
       "title": "Valid Mountain Array",
-      "at": 1790529101994
+      "at": 1790559877828
     }
   },
   "achievements": {
@@ -134,11 +153,12 @@
     "2026-09-23",
     "2026-09-24",
     "2026-09-25",
-    "2026-09-26"
+    "2026-09-26",
+    "2026-09-27"
   ],
   "bests": {
-    "longestStreak": 5,
-    "pushes": 7
+    "longestStreak": 6,
+    "pushes": 8
   },
   "identity": {
     "installId": "ac732866-6765-4c3e-87af-b4a33f20327a",
