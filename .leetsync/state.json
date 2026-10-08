@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791483121464,
+  "updatedAt": 1791483248685,
   "devices": {
     "a0935c29-a827-4d68-a3e5-207e55bdacf5": {
-      "lastSeen": 1791483120846
+      "lastSeen": 1791483248034
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1791483120846
+      "at": 1791483248034
     },
     "18": {
       "date": "2026-09-28",
@@ -33,7 +33,7 @@
       "language": "C++",
       "number": 18,
       "title": "4Sum",
-      "at": 1791483120846
+      "at": 1791483248034
     },
     "20": {
       "attempts": 1,
@@ -53,26 +53,26 @@
         "Bracket Sequences"
       ],
       "title": "Valid Parentheses",
-      "at": 1791483120846
+      "at": 1791483248034
     },
     "27": {
-      "attempts": 1,
-      "bestMemory": "11.7 MB (Beats 84%)",
+      "attempts": 3,
+      "bestMemory": "11.9 MB (Beats 12%)",
       "bestRuntime": "0 ms (Beats 100%)",
-      "date": "2026-09-27",
+      "date": "2026-10-08",
       "difficulty": "Easy",
-      "firstSolvedOn": "2026-09-27",
+      "firstSolvedOn": "2026-10-08",
       "folderName": "0027-Remove-Element",
       "language": "C++",
       "number": 27,
       "slug": "remove-element",
-      "solutionCount": 1,
+      "solutionCount": 2,
       "tags": [
         "Array",
         "Two Pointers"
       ],
       "title": "Remove Element",
-      "at": 1791483120846
+      "at": 1791483248034
     },
     "134": {
       "attempts": 1,
@@ -91,7 +91,7 @@
         "Greedy"
       ],
       "title": "Gas Station",
-      "at": 1791483120846
+      "at": 1791483248034
     },
     "162": {
       "attempts": 2,
@@ -110,7 +110,7 @@
         "Binary Search"
       ],
       "title": "Find Peak Element",
-      "at": 1791483120846
+      "at": 1791483248034
     },
     "304": {
       "attempts": 4,
@@ -131,7 +131,7 @@
         "Prefix Sum"
       ],
       "title": "Range Sum Query 2D - Immutable",
-      "at": 1791483120846
+      "at": 1791483248034
     },
     "852": {
       "attempts": 1,
@@ -151,7 +151,7 @@
         "Ternary Search"
       ],
       "title": "Peak Index in a Mountain Array",
-      "at": 1791483120846
+      "at": 1791483248034
     },
     "941": {
       "attempts": 4,
@@ -169,7 +169,7 @@
         "Array"
       ],
       "title": "Valid Mountain Array",
-      "at": 1791483120846
+      "at": 1791483248034
     },
     "2022": {
       "attempts": 1,
@@ -189,7 +189,7 @@
         "Simulation"
       ],
       "title": "Convert 1D Array Into 2D Array",
-      "at": 1791483120846
+      "at": 1791483248034
     }
   },
   "achievements": {
@@ -208,11 +208,12 @@
     "2026-09-26",
     "2026-09-27",
     "2026-09-29",
-    "2026-10-03"
+    "2026-10-03",
+    "2026-10-08"
   ],
   "bests": {
     "longestStreak": 6,
-    "pushes": 10
+    "pushes": 11
   },
   "identity": {
     "installId": "ac732866-6765-4c3e-87af-b4a33f20327a",
