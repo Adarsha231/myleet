@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791653948585,
+  "updatedAt": 1791654248610,
   "devices": {
     "a0935c29-a827-4d68-a3e5-207e55bdacf5": {
-      "lastSeen": 1791653948006
+      "lastSeen": 1791654247999
     }
   },
   "problems": {
@@ -24,7 +24,27 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1791653948006
+      "at": 1791654247999
+    },
+    "15": {
+      "attempts": 5,
+      "bestMemory": "29 MB (Beats 72%)",
+      "bestRuntime": "43 ms (Beats 83%)",
+      "date": "2026-10-10",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-10",
+      "folderName": "0015-3Sum",
+      "language": "C++",
+      "number": 15,
+      "slug": "3sum",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "title": "3Sum",
+      "at": 1791654247999
     },
     "18": {
       "date": "2026-09-28",
@@ -33,7 +53,7 @@
       "language": "C++",
       "number": 18,
       "title": "4Sum",
-      "at": 1791653948006
+      "at": 1791654247999
     },
     "20": {
       "date": "2026-10-09",
@@ -42,7 +62,7 @@
       "language": "C++",
       "number": 20,
       "title": "Valid Parentheses",
-      "at": 1791653948006
+      "at": 1791654247999
     },
     "27": {
       "attempts": 3,
@@ -61,7 +81,7 @@
         "Two Pointers"
       ],
       "title": "Remove Element",
-      "at": 1791653948006
+      "at": 1791654247999
     },
     "134": {
       "attempts": 1,
@@ -80,7 +100,7 @@
         "Greedy"
       ],
       "title": "Gas Station",
-      "at": 1791653948006
+      "at": 1791654247999
     },
     "162": {
       "attempts": 2,
@@ -99,7 +119,7 @@
         "Binary Search"
       ],
       "title": "Find Peak Element",
-      "at": 1791653948006
+      "at": 1791654247999
     },
     "304": {
       "attempts": 4,
@@ -120,7 +140,7 @@
         "Prefix Sum"
       ],
       "title": "Range Sum Query 2D - Immutable",
-      "at": 1791653948006
+      "at": 1791654247999
     },
     "852": {
       "attempts": 1,
@@ -140,7 +160,7 @@
         "Ternary Search"
       ],
       "title": "Peak Index in a Mountain Array",
-      "at": 1791653948006
+      "at": 1791654247999
     },
     "941": {
       "attempts": 4,
@@ -158,7 +178,7 @@
         "Array"
       ],
       "title": "Valid Mountain Array",
-      "at": 1791653948006
+      "at": 1791654247999
     },
     "2022": {
       "attempts": 1,
@@ -178,7 +198,7 @@
         "Simulation"
       ],
       "title": "Convert 1D Array Into 2D Array",
-      "at": 1791653948006
+      "at": 1791654247999
     }
   },
   "achievements": {
@@ -198,11 +218,12 @@
     "2026-09-27",
     "2026-09-29",
     "2026-10-03",
-    "2026-10-08"
+    "2026-10-08",
+    "2026-10-10"
   ],
   "bests": {
     "longestStreak": 6,
-    "pushes": 11
+    "pushes": 12
   },
   "identity": {
     "installId": "ac732866-6765-4c3e-87af-b4a33f20327a",
