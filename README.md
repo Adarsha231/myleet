@@ -31,7 +31,7 @@
 |:---:|:--------|:----------:|:--------:|:----:|
 | 1 | [Two Sum](problems/0001-Two-Sum) | 🟩 Easy | `C++` | 2026-09-24 |
 | 15 | [3Sum](problems/0015-3Sum) | 🟧 Medium | `C++` | 2026-10-10 |
-| 18 | [4Sum](problems/0018-4Sum) | 🟧 Medium | `C++` | 2026-09-28 |
+| 18 | [4Sum](problems/0018-4Sum) | 🟧 Medium | `C++` | 2026-10-11 |
 | 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `C++` | 2026-10-09 |
 | 27 | [Remove Element](problems/0027-Remove-Element) | 🟩 Easy | `C++` | 2026-10-08 |
 | 134 | [Gas Station](problems/0134-Gas-Station) | 🟧 Medium | `Python` | 2026-09-26 |
