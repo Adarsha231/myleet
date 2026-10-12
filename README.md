@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-12%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-6%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-6%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-13%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-6%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-6%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -41,6 +41,7 @@
 | 941 | [Valid Mountain Array](problems/0941-Valid-Mountain-Array) | 🟩 Easy | `C++` | 2026-09-22 |
 | 1816 | [Truncate Sentence](problems/1816-Truncate-Sentence) | 🟩 Easy | `C++` | 2026-10-12 |
 | 2022 | [Convert 1D Array Into 2D Array](problems/2022-Convert-1D-Array-Into-2D-Array) | 🟩 Easy | `Python` | 2026-09-29 |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](problems/2897-Apply-Operations-on-Array-to-Maximize-Sum-of-Squares) | 🟥 Hard | `C++` | 2026-10-12 |
 
 ---
 
