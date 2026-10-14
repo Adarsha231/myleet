@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-13%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-6%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-6%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-14%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-6%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-7%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -34,6 +34,7 @@
 | 18 | [4Sum](problems/0018-4Sum) | 🟧 Medium | `C++` | 2026-10-11 |
 | 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `C++` | 2026-10-09 |
 | 27 | [Remove Element](problems/0027-Remove-Element) | 🟩 Easy | `C++` | 2026-10-08 |
+| 31 | [Next Permutation](problems/0031-Next-Permutation) | 🟧 Medium | `C++` | 2026-10-14 |
 | 134 | [Gas Station](problems/0134-Gas-Station) | 🟧 Medium | `Python` | 2026-09-26 |
 | 162 | [Find Peak Element](problems/0162-Find-Peak-Element) | 🟧 Medium | `C++` | 2026-09-22 |
 | 304 | [Range Sum Query 2D - Immutable](problems/0304-Range-Sum-Query-2D---Immutable) | 🟧 Medium | `C++` | 2026-09-25 |
